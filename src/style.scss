@@ -55,6 +55,8 @@ body {
   color: #fff;
   border-radius: 10%;
   opacity: 0.8;
+  width: 250px;
+  transition: 1s;
   &:hover {
     opacity: 1;
   }

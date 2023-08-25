@@ -2,12 +2,12 @@ export const words = [
   {
     id: 1,
     english: 'Essential',
-    polish: 'Niezbędny',
+    polish: 'Istotny, Niezbędny, Ważny',
   },
   {
     id: 2,
     english: 'Versatile',
-    polish: 'Wszechstronny',
+    polish: 'Wszechstronny, Uniwersalny',
   },
   {
     id: 3,
@@ -17,11 +17,11 @@ export const words = [
   {
     id: 4,
     english: 'Accumulate',
-    polish: 'Gromadzić',
+    polish: 'Gromadzić, Zbierać',
   },
   {
     id: 5,
-    english: 'Boil to',
+    english: 'Boil down to',
     polish: 'Sprowadzić',
   },
   {
@@ -32,12 +32,12 @@ export const words = [
   {
     id: 7,
     english: 'Underlying',
-    polish: 'Zasadniczy',
+    polish: 'Podstawowy, Ukryty',
   },
   {
     id: 8,
     english: 'Basically',
-    polish: 'Podstawowy',
+    polish: 'Podstawowo, Zasadniczo, W zasadzie, w gruncie rzeczy,',
   },
   {
     id: 9,
@@ -47,22 +47,22 @@ export const words = [
   {
     id: 10,
     english: 'Traversing',
-    polish: 'Przechodzenie',
+    polish: 'Przejście',
   },
   {
     id: 11,
     english: 'Common',
-    polish: 'Wspólny',
+    polish: 'Wspólny, Pospolity, Zwyczajny',
   },
   {
     id: 12,
     english: 'Ternary',
-    polish: 'Potrójny',
+    polish: 'Potrójny, Trójczłonowy',
   },
   {
     id: 13,
     english: 'Straightforward',
-    polish: 'prosto',
+    polish: 'Prosty, Jasny, Bezpośredni, Uczciwy',
   },
   {
     id: 14,
@@ -82,42 +82,37 @@ export const words = [
   {
     id: 17,
     english: 'Derived',
-    polish: 'Pochodny',
+    polish: 'Pochodny, Uzyskany, Wywiedziony',
   },
   {
     id: 18,
-    english: 'Deriving',
-    polish: 'Pochodzący',
+    english: 'Parallel',
+    polish: 'Równoległy',
   },
   {
     id: 19,
     english: 'Explicitly',
-    polish: 'Wyraźnie',
-  },
-  {
-    id: 20,
-    english: 'Internally',
-    polish: 'Wewnętrznie',
+    polish: 'Jawnie, Wyraźnie, Dobitnie',
   },
   {
     id: 21,
     english: 'Trigger',
-    polish: 'Wywołać',
+    polish: 'Wywołać, Uruchomić, Spowodować, Wyzwolić',
   },
   {
     id: 22,
     english: 'Batch',
-    polish: 'Seria',
+    polish: 'Seria, Partia, Wsad, Grupa',
   },
   {
     id: 23,
     english: 'Inital',
-    polish: 'Wstępny',
+    polish: 'Wstępny, Początkowy, Pierwotny',
   },
   {
     id: 24,
-    english: 'Reconcilition',
-    polish: 'Pojednanie',
+    english: 'Reconciliation',
+    polish: 'Rekoncyliacja, Uzgadnianie, Ugodzenie',
   },
   {
     id: 25,
@@ -127,27 +122,27 @@ export const words = [
   {
     id: 26,
     english: 'Diffing',
-    polish: 'Różniące się',
+    polish: 'Różnicowanie, Porównywanie',
   },
   {
     id: 27,
     english: 'Associated',
-    polish: 'Powiązany',
+    polish: 'Powiązany, Służący',
   },
   {
     id: 28,
     english: 'Chunks',
-    polish: 'Kawałki',
+    polish: 'Kawałki, Fragmenty, Cząstki',
   },
   {
     id: 29,
     english: 'Conccurent',
-    polish: 'Równoległy',
+    polish: 'Równoczesny',
   },
   {
     id: 30,
     english: 'Commit',
-    polish: 'Popełniać',
+    polish: 'Zatwierdzić, Dokonać, Zobowiązać się, Wykonać',
   },
   {
     id: 31,
@@ -157,61 +152,86 @@ export const words = [
   {
     id: 32,
     english: 'In conjunction',
-    polish: 'w połączeniu',
+    polish: 'W połączeniu, Razem z, Wspólnie z',
   },
   {
     id: 33,
     english: 'Accurate',
-    polish: 'Dokładny',
+    polish: 'Dokładny, Precyzyjny, Trafny',
   },
   {
     id: 34,
     english: 'Retain',
-    polish: 'Zachować',
+    polish: 'Zachować, Utrzymać, Przechować',
   },
   {
     id: 35,
     english: 'Inefficient',
-    polish: 'Nieskuteczny',
+    polish: 'Niewydajny, Nieskuteczny, Nieefektywny',
   },
   {
     id: 36,
     english: 'Occupation',
-    polish: 'Zawód',
+    polish: 'Zawód, Zajęcie, Praca',
   },
   {
     id: 37,
     english: 'Impure',
-    polish: 'Zanieczyszczony',
+    polish: 'Zanieczyszczony, Nieczysty',
   },
   {
     id: 38,
     english: 'Certain',
-    polish: 'Pewien',
+    polish: 'Pewny, Określony, Konkretny',
   },
   {
     id: 39,
     english: 'Stale',
-    polish: 'Nieświeży',
+    polish: 'Nieświeży, Zestarzały',
   },
   {
     id: 40,
     english: 'Capturing',
-    polish: 'Przechwytywanie',
+    polish: 'Przechwytywanie, Rejestrowanie, Zdobywanie',
   },
   {
     id: 41,
     english: 'Synthetic',
-    polish: 'Syntetyczny',
+    polish: 'Syntetyczny, Sztuczny',
   },
   {
     id: 42,
-    english: 'Inconsistancy',
-    polish: 'Niespójny',
+    english: 'Inconsistency',
+    polish: 'Niespójność, Niekonsekwencja, Nierówność',
   },
   {
     id: 43,
     english: 'Distinguish',
-    polish: 'Odróżnić',
+    polish: 'Odróżniać, Rozróżniać, Wyróżniać',
+  },
+  {
+    id: 44,
+    english: 'Fetching data',
+    polish: 'Pobieranie danych',
+  },
+  {
+    id: 45,
+    english: 'Dependency',
+    polish: 'Zależność, Współzależność',
+  },
+  {
+    id: 46,
+    english: 'Reference',
+    polish: 'Odniesienie, Nawiązanie, Referencja',
+  },
+  {
+    id: 47,
+    english: 'Persists',
+    polish: 'Utrzymuje się, Trwa, Nie znika',
+  },
+  {
+    id: 48,
+    english: 'Provider',
+    polish: 'Dostawca',
   },
 ];

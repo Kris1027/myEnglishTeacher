@@ -50,12 +50,13 @@ body {
   justify-content: center;
   align-items: center;
   padding: 2rem;
-  font-size: 2rem;
+  font-size: 1.8rem;
   cursor: pointer;
   color: #fff;
   border-radius: 10%;
   opacity: 0.8;
   width: 250px;
+  height: 250px;
   transition: 1s;
   &:hover {
     opacity: 1;
